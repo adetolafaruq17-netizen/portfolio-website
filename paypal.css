@@ -1,0 +1,136 @@
+body{
+    background-color: white;
+}
+
+img{
+    width: 100px;
+    margin-left:45%;
+    height: 75px;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    font-weight: 200;
+    font-family: serif;
+    color:rgba(0, 0, 0, 0.584);
+}
+
+#email {
+    border: 2px solid black;
+    border-radius: 4px;
+    color: blue;
+    height: 27px;
+    width: 250px;
+    margin-left:40%;
+    margin-top: 30px;
+}
+
+
+#password {
+    border: 2px solid black;
+    border-radius: 4px;
+    color: blue;
+    height: 27px;
+    width: 250px;
+    margin-left:40%;
+    margin-top: 20px;
+}
+
+#button{
+    margin-left: 41%;
+    padding: 7px;
+    border-radius: 7px;
+    width: 250px;
+    height: 35px;
+    background-color: rgba(7, 112, 249, 0.888);
+    color:white;
+}
+
+#button:hover {
+    background-color:rgb(103, 138, 244);
+}
+
+#checkbox {
+    margin-left:42%;
+    margin-top: 15px;
+}
+
+.brk{
+    margin-left: 20px;
+}
+
+.have {
+    margin-left: 45%;
+    color: rgb(2, 61, 190);
+    margin-top: 10px;
+}
+
+.have a{
+    text-decoration: none;
+}
+
+h5 {
+     margin-left: 43%;
+}
+
+.new-acc a {
+    text-decoration: none;
+}
+
+.new-acc{
+    margin-left: 44%;
+}
+
+.p-p-an a {
+      margin-left: 41%;
+      margin-top: 30px;
+      text-decoration: none;
+      text-transform: lowercase;
+      font-family: sans-serif;
+
+}
+
+.p-p-an a:hover {
+    color:chocolate;
+}
+
+.field-acc {
+    margin-left:25%;
+    width: 50%;
+    border-radius: 7px;
+    height: 60%;
+    margin-top: 20px;
+    height: 200%;
+}
+
+  input{
+            border-radius: 4px;
+            color: blue;
+            border-color: black;
+            padding: 5px;
+                     }
+
+    label {
+            font-family: sans-serif;
+            
+        }
+
+legend {
+    text-align: center; 
+}
+
+#submit{
+    margin-left: 43%;
+    width: 80px;
+}
+
+#submit:hover{
+     background-color:rgb(103, 138, 244);
+}
+
+.new-acc-a{
+    margin-left:43% ;
+    color: white;
+}
+

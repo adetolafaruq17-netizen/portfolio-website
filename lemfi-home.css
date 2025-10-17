@@ -1,0 +1,35 @@
+/*this not*\
+body {
+    background-color:tomato;
+}
+
+div {
+    font-size: 39px;
+    background-color: blue;
+    background-color: #ccc;
+    height: 50px;
+    width: 200px;
+    padding: 50px;
+    position: relative;
+    margin-left: 30%;
+    font-family: cursive;
+    opacity: 0;
+    animation: slidein 1s ease-out forwards ,div 6s infinite;
+}
+
+@keyframes slidein {
+    from{
+        right:-100%;
+        opacity:0;
+    }
+    to {
+        right:0;
+        opacity: 0;
+    }
+}
+@keyframes div{
+    0%,100% {opacity: 2;}
+    50%{opacity: 0;}
+}
+
+
